@@ -3,8 +3,8 @@ This is the new pdp site
 
 
 # Team
-Derek
-Jay
-Mary
-Ernie
-Jason
+Derek Chou
+Jay Hahn
+Marty Vo
+Ernie Hao
+Jason Choi
