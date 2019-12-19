@@ -55,14 +55,18 @@ This should start up a web server on the address `http://localhost:1313/`. Using
 ## Hot Reloading
 Hugo supports hot reloading, which means that any change to HTML, CSS, JS, or Markdown files will be instantly reflected on the site after saving. For example, if you add an image to the home page and save the file, the browser automatically refreshes and reflects the change you made.
 
-## Workflow
-Once you've cloned the codebase, made some changes, and are ready to publish your changes, there is a workflow you must follow so that we don't step over each other.
-
+## Make sure we have master
 Before we start make sure we have the latest version of `master` locally. Run the following:
 
 `git checkout master` This makes sure we have checked out into our master branch
 `git fetch` This will fetch the latest changes, if any, from github's master
 `git pull` This will pull any new changes from `origin/master` and merge them into our local copy of `master`
+
+### Submodules
+We are using *submodules* in github, which are modules in our repor the reference separate repos. We need to make sure that we pull in these modules as well or our repo will be missing files. Run `git submodule update --init --recursive`. This will update all our submodule pacakages recursively to makes sure we have the proper references.
+
+## Workflow
+Once you've cloned the codebase, made some changes, and are ready to publish your changes, there is a workflow you must follow so that we don't step over each other.
 
 1. **Feature Branch** -
 Before working on any new changes you must create a feature branch off of `master` describing what you are working on.
