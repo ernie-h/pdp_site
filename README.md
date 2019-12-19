@@ -1,10 +1,10 @@
 # pdp_site
 # Team
-  Derek - Setup complete
-  Jay
-  Marty
-  Ernie - Setup complete
-  Jason
+ * Derek - Setup complete
+ * Jay
+ * Marty
+ * Ernie - Setup complete
+ * Jason
 
 
 # SETUP
@@ -64,33 +64,31 @@ Before we start make sure we have the latest version of `master` locally. Run th
 `git fetch` This will fetch the latest changes, if any, from github's master
 `git pull` This will pull any new changes from `origin/master` and merge them into our local copy of `master`
 
-1. Feature Branch
+1. **Feature Branch** -
 Before working on any new changes you must create a feature branch off of `master` describing what you are working on.
 `git checkout -b <FEATURE_BRANCH_NAME>`
 Ex. `git checkout -b homepage`
 
-2. Stage Changes
+2. **Stage Changes** -
 After creating a new branch, you can start working on your feature. Once you are confident you have finished your feature, you can begin the process of pushing it up to github for others to see. Run a `git status` to see what files you have modified and double check those are what you want to commit. Run a `git diff` to have a more in-depth review of specific lines that you have modified. 
 Afterwards, in order to stage your changes run `git add .`. The `.` opeartor indicates you are staging all files for commit. If you only want to add select files you can run `git add <FILE_NAME>` Ex. `git add homepage.html`
 
-3. Commit Changes
+3. **Commit Changes** -
 Next we have to commit the staged changes into a single commit. A commit is basically a reference of all the changes you have staged for publishing. Run `git commit -m "COMMIT_MESSAGE"`. The commit message should specify what changes are included in the commit. Ex. `git commit -m "Added hero image to homepage"` 
 
-4. Push Refs and Changes
+4. **Push Refs and Changes** -
 Once you have commited your changes run `git log` to double check that your commit is at the `HEAD` of your work tree. Type `:q` to exit out. Now you are ready to push your changes to github. Run `git push`, note that this should throw a error message. You should receieve a separate push command in your console like the following, `git push --set-upstream <remote> <branch>`.
-
 What this means is that your branch only exists locally and there is no reference to it on github. Again at this point github has no reference of any branches, commits, or changes you have made locally. `--set-upstream` specifies that we are setting a reference of our current branch on git hub. Ex. `git push --set-upstream origin homepage` Means that we are creating a reference of the branch `homepage` on github for us to push to. 
-
 Once you run this you will receive a prompt to login with your github credentials. The reason for this is that github needs to be able to verify that you are allowed to push changes to this specific repo. If it didn't, any one would be ablt to push to our site. For now you can just enter your credentials and your changes will be pushed, however, this might start to get annoying as you begin pushing more changes. There is a way for you to add ssh keys to your CLI config files, which will validate with github that you are indeed allowed to post to this repo and will remove the hassle of writing your credentials each time. For more info see (this)[https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh]
 
-5. Make Pull Request
+5. **Make Pull Request** -
 Once your changes are pushed, navigate to github on your browser and you should see a prompt on the repo to **compare and request** your branch. Click the green button, write a description, and create the pull request. Now all of your changes will be highlighted in this pull request for others to review.
 
-6. Wait for Peer Reviews
+6. **Wait for Peer Reviews** -
 There is a section where you can request collaborators to review the work you've done. For our case this is important because others might be working in the same files as you and this gives us transparency on what everyone else is working on. Notify others to look at your PR and wait for an approval of it before merging.
 
-7. Merge Pull Request
+7. **Merge Pull Request** -
 Once you get the :+1: click the green button on the bottom that says **Merge**. Make sure to delete your branch after you have merged to master.
 
-8. Update Your Master
+8. **Update Your Master** -
 Lastly, navigate to your CLI session in VSCode and again run a `git fetch` and `git pull`. Remember to keep your local copy of master updated with the new changes you have just published. And thats it :fire:!
