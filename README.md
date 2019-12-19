@@ -3,7 +3,7 @@ This is the new pdp site
 
 
 # Team
-Derek
+Derek - setup complete
 Jay
 Marty
 Ernie
