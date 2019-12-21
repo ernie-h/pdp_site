@@ -54,8 +54,8 @@ DefaultContentLanguage = "en"
     # About 2 Section
     [params.aboutSm]
         enable  = true
-        title   = "We have explored the digital landscape with passion for a long time"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
+        title   = "We are the fastest growing Asian-American interest fraternity in the United States"
+        description = "Pi Delta Psi is an Asian American Cultural Fraternity founded on February 20, 1994 at Binghamton University in Binghamton, New York. Since our founding, the primary mission of Pi Delta Psi has been to spread Asian American Cultural awareness in an effort to empower the entire Asian American community. We are guided by four pillars; Academic Achievement, Cultural Awareness, Righteousness, and Friendship/Loyalty. The Northeastern Alpha Alpha Chapter was established in 2005 and is currently 143 brothers strong"
 
     # Blog Section On Homepage
     [params.blog]
@@ -84,7 +84,7 @@ DefaultContentLanguage = "en"
 
     # Call to Action Section on About Page
     [params.cta]
-        enable  = true
+        enable  = false
         bg      = "images/call-to-action/call-to-action-bg-2.jpg"
         title   = "Let's Create Something Together"
         subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
