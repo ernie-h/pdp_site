@@ -2,7 +2,7 @@
 # Team
  * Derek - Setup complete
  * Jay
- * Marty
+ * Marty - Setup complete
  * Ernie - Setup complete
  * Jason
 
