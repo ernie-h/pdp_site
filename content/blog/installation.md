@@ -1,81 +1,32 @@
 ---
-title: "How To Setup Navigator Hugo"
-date: 2018-07-08T12:22:40+06:00
-image: images/blog/post-2.jpg
-author: Cersei Lannister
-description: "This is meta description"
+title: "Congratulations to our Spring 2020 Board!"
+date: 2010-12-20T12:22:40+06:00
+image: images/blog/introductory_blog.jpg
+author: Marty Vo
+description: "Spring 2020 Board"
 ---
 
-## Install this template by following those simple steps:
+## Executive Board:
+**President**: Marty Vo (SPR 18)  
+**External Vice-President**: Brayden Tokuyama (FA 17)  
+**Internal Vice-President**: Woo Sek Chung (SPR 18)  
+**Treasurer**: Richard Zheng (FA 18)  
+**Recorder**: Ryo Tsuda (FA 17)  
 
-### STEP-1 : Hugo installation
-
-Check this link below for install hugo on your computer.
-[hugo install documentation](https://gohugo.io/getting-started/installing/)
-
-### STEP-2 : Create your project
-
-Hugo provides a `new` command to create a new website.
-
-```
-hugo new site <new_project>
-```
-
-### STEP-3 : Install the theme
-Run this command
-```
-hugo new site navigator-hugo
-```
-and then go to the themes folder inside of navigator-hugo folder. You can also use this command ```cd navigator-hugo/themes``` for going to this folder.
-Then run the command 
-```
-git clone git@github.com:themefisher/navigator-hugo.git
-```
-
-Alternatively, you can [download the theme as .zip](https://github.com/themefisher/navigator-hugo/archive/master.zip) file and extract it in the `themes` directory
-
-After that you need to go to the `navigator-hugo/exampleSite` folder and copy or cut all the elements, and now go back to the root folder and paste it here.
-
-open the command prompt again and run `cd ../` command for go back to the root folder.
-
-### STEP-4 : Host locally
-
-Launching the website locally by using the following command:
-
-```
-hugo serve
-```
-
-Go to `http://localhost:1313`
-
-Or you can check this video documentation for installing this template:
-{{< youtube _atvEfndieg >}}
-
-### STEP-5 : Basic configuration
-
-When building the website, you can set a theme by using `--theme` option. However, we suggest you modify the configuration file (`config.toml`) and set the theme as the default.
-
-```toml
-# Change the default theme to be use when building the site with Hugo
-theme = "navigator-hugo"
-```
-
-### STEP-6 : Create your first content pages
-
-```
-hugo new blog/post-name.md
-```
-
-### STEP-7 : Build the website
-
-When your site is ready to deploy, run the following command:
-
-```
-hugo
-
-# You can also create a minified version by using this command:
-hugo--minify
-
-```
-
-A `public` folder will be generated, containing all static content and assets for your website. It can now be deployed on any web server.
+## Minor Board:  
+**Rush**: Patton Lu (SPR 17), Brayden Tokuyama (FA 17), Lex Lei (SPR 19)  
+**Social**: Shaun Khundker (FA 18), Tshering Penjo (FA 18)  
+**Community Service**: Tshering Penjo (FA 18), Chris Su (FA 19)  
+**Philanthropy**: Justin Yu (SPR 19)  
+**Cultural**: Kenny Huang (SPR 19), Warin Sae Sae (FA 19)  
+**Multicultural Greek Council**: Chris Su (FA 19), Warin Sae Sae (FA 19)  
+**Pan Asian American Council**: Nicholas Cao (SPR 19)  
+**Fundraising**: Jae Hoon Choi (SPR 19)  
+**Academic**: Chris Su (FA 19)  
+**Banquet**: Jerry Chen (SPR 17)  
+**Performance**: Ryo Tsuda (FA 17)  
+**Public Relations**: Jack Liang (SPR 19)  
+**Fraternity Artist**: Lex Lei (SPR 19)  
+**Brother Unity**: Jack Liang (SPR 19)  
+**Wellness**: Patton Lu (SPR 17), Edward Lam (FA 17)  
+**Alumni Relations**: Justin Yu (SPR 17)
