@@ -1,4 +1,5 @@
-enable  : true
+# TODO: VERIFY WHETHER WE NEED THESE
+enable  : false
 item  :
   - icon  : tf-ion-ios-copy-outline
     title : WordPress Theme
