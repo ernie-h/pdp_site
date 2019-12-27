@@ -26,12 +26,6 @@ DefaultContentLanguage = "en"
     dateFormat = "January 2, 2006"
 
     weight = 2
-    # home = "HOME"
-    # about = "ABOUT"
-    # other = "SERVICE"
-    # other = "ACTIVE HOUSE"
-    # other = "BLOG"
-    # other = "CONTACT"
 
     #FOOTER
     footerDescription = "Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
@@ -44,19 +38,19 @@ DefaultContentLanguage = "en"
     [params.hero]
         enable  = true
         heading = "Excellence Through Brotherhood"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
+        description = "Northeastern Pi Delta Psi prides itself on empowering a new generation of Brothers academically, culturally, and righteously."
         button  = false
-        btnText = "Know More"
-        btnURL  = "https://themefisher.com/"
-        videoThumb = "images/slider/video-player-thumb.jpg"
-        videoURL   = "https://www.youtube.com/watch?v=-lWqB_cl6Sk"
+        btnText = "Know More" # TODO: Change
+        btnURL  = "https://pideltapsi.com/" # TODO: Change
+        videoThumb = "images/slider/video-player-thumb.jpg" # TODO: Change
+        videoURL   = "https://www.youtube.com/embed/-lWqB_cl6Sk"
 
     # About 2 Section
     [params.aboutSm]
         enable  = true
         title   = "We are the fastest growing Asian-American fraternity in the United States"
         description = "Pi Delta Psi is an Asian American Cultural Fraternity founded on February 20, 1994 at Binghamton University in Binghamton, New York. Since our founding, the primary mission of Pi Delta Psi has been to spread Asian American Cultural awareness in an effort to empower the entire Asian American community. We are guided by four pillars; Academic Achievement, Cultural Awareness, Righteousness, and Friendship/Loyalty. The Northeastern University Chapter was established in 2005, and since then we have grown to be 143 brothers strong."
-
+    
     # Blog Section On Homepage
     [params.blog]
         enable  = true

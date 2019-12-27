@@ -1,7 +1,7 @@
 enable  : true
-topTitle: TEAM MEMBER
-title   : Our Team.
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+topTitle: THE BROTHERS
+title   : Our Active House.
+subtitle: We price ourselves on having one of the most productive and largest Active House Roster throughout the Nation.
 
 member  :
   - image         : images/team/member-1.jpg
