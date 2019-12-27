@@ -1,28 +1,28 @@
 enable  : true
-topTitle: HOW WE WORKS
-title   : Our Work Process
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
+topTitle: HOW WE WORK
+title   : Our Four Pillars
+subtitle: Pi Delta Psi was founded on four pillars that embody the purpose of our Fraternity.
 item    :
   - number  : 1
-    icon    : tf-ion-ios-briefcase-outline
-    title   : Project Analysis
+    icon    : tf-ion-ios-book-outline
+    title   : Academic Achievement
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
+      Stive to main academic excellence in our studies and work. 
 
   - number  : 2
-    icon    : tf-ion-ios-alarm-outline
-    title   : Time Management
+    icon    : tf-ion-ios-flag-outline
+    title   : Cultural Awareness
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
+      Understand our cultural identity and how it fits in today's world.
 
   - number  : 3
-    icon    : tf-ion-ios-email-outline
-    title   : Mail Support
+    icon    : tf-ion-ios-checkmark-outline
+    title   : Righteousness
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
+      Fight for what is right and never be complacement in the face of injustice.
 
   - number  : 4
-    icon    : tf-ion-ios-locked-outline
-    title   : Secure System
+    icon    : tf-ion-ios-basketball-outline
+    title   : Friendship and Loyalty
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae risus nec dui venenatis.
+      Value the relationships we build and never leave a Brother behind.

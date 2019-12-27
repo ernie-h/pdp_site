@@ -1,13 +1,13 @@
 enable  : true
 item    :
   - positionRight : false
-    image : images/about/about-1.jpg
-    title : Creativity is in our blood
+    image : images/about/about-1.png
+    title : We are culturally driven...
     description : >
-      Curabitur felis nibh, imperdiet eu erat non, luctus cursus lectus. Donec maximus diam leo, sed fringilla nisl auctor eget. Donec dictum neque est, ac faucibus ex blandit a Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quo minima ab aperiam molestiae natus repellendus neque culpa iure, nemo veritatis explicabo facilis, officia, saepe! Et corrupti odit, non deserunt.
+      Being culturally attune is something we value greatly. We strive to explore our cultural identity, but more importantly understand its value in today's society. We host a myriad of cultural events and workshops, brining in members that have positively impacted the Asian-American community. Some notable guests include JKFilms, The Shibutani Siblings, The Fung Bros, and Professor Terry Park.
 
   - positionRight : true
-    image : images/about/about-2.jpg
-    title : We think out of the Box
+    image : images/about/about-2.png
+    title : And socially impactful
     description : >
       Curabitur felis nibh, imperdiet eu erat non, luctus cursus lectus. Donec maximus diam leo, sed fringilla nisl auctor eget. Donec dictum neque est, ac faucibus ex blandit a Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quo minima ab aperiam molestiae natus repellendus neque culpa iure, nemo veritatis explicabo facilis, officia, saepe! Et corrupti odit, non deserunt.

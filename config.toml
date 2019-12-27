@@ -26,12 +26,6 @@ DefaultContentLanguage = "en"
     dateFormat = "January 2, 2006"
 
     weight = 2
-    # home = "HOME"
-    # about = "ABOUT"
-    # other = "SERVICE"
-    # other = "ACTIVE HOUSE"
-    # other = "BLOG"
-    # other = "CONTACT"
 
     #FOOTER
     footerDescription = "Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
@@ -54,9 +48,9 @@ DefaultContentLanguage = "en"
     # About 2 Section
     [params.aboutSm]
         enable  = true
-        title   = "We have explored the digital landscape with passion for a long time"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
-
+        title   = "We are the fastest growing Asian-American fraternity in the United States"
+        description = "Pi Delta Psi is an Asian American Cultural Fraternity founded on February 20, 1994 at Binghamton University in Binghamton, New York. Since our founding, the primary mission of Pi Delta Psi has been to spread Asian American Cultural awareness in an effort to empower the entire Asian American community. We are guided by four pillars; Academic Achievement, Cultural Awareness, Righteousness, and Friendship/Loyalty. The Northeastern University Chapter was established in 2005, and since then we have grown to be 143 brothers strong."
+    
     # Blog Section On Homepage
     [params.blog]
         enable  = true

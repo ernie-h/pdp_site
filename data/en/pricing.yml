@@ -1,4 +1,4 @@
-enable  : true
+enable  : false #TODO: Change if we need
 topTitle: EASY PRICING
 title   : Pricing.
 subtitle : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
