@@ -44,12 +44,12 @@ DefaultContentLanguage = "en"
     [params.hero]
         enable  = true
         heading = "Excellence Through Brotherhood"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
+        description = "Northeastern Pi Delta Psi prides itself on empowering a new generation of Brothers academically, culturally, and righteously."
         button  = false
-        btnText = "Know More"
-        btnURL  = "https://themefisher.com/"
-        videoThumb = "images/slider/video-player-thumb.jpg"
-        videoURL   = "https://www.youtube.com/watch?v=-lWqB_cl6Sk"
+        btnText = "Know More" # TODO: Change
+        btnURL  = "https://pideltapsi.com/" # TODO: Change
+        videoThumb = "images/slider/video-player-thumb.jpg" # TODO: Change
+        videoURL   = "https://www.youtube.com/embed/-lWqB_cl6Sk"
 
     # About 2 Section
     [params.aboutSm]
