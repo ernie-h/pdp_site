@@ -1,7 +1,5 @@
-# baseURL = "https://example.org/"
 languageCode = "en-us"
 title = "NEU Pi Delta Psi"
-# theme = "navigator-hugo"
 summaryLength = 10
 
 # Build robots.txt file
@@ -28,7 +26,7 @@ DefaultContentLanguage = "en"
     weight = 2
 
     #FOOTER
-    footerDescription = "Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
+    footerDescription = "This site belongs to the Alpha Alpha Chapter of Pi Delta Psi Fraternity Inc. Northeastern University"
     footerServiceTitle = "Service"
     footerQuicklinkTitle = "Quicklinks"
     footerAboutTitle = "About"
