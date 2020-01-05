@@ -1,45 +1,105 @@
 enable  : true
 topTitle: THE BROTHERS
 title   : Our Active House.
-subtitle: We price ourselves on having one of the most productive and largest Active House Roster throughout the Nation.
+subtitle: We prize ourselves on having one of the largest active house rosters in the Nation. 32 Strong.
 
 member  :
-  - image         : images/team/member-1.jpg
-    name          : Shawshank Redemption
-    designation   : Head Of Marketing
+  - image         : images/team/marty.jpg
+    name          : Marty "Zomboy" Vo
+    designation   : President, S18
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+      Marty is the 14th President of the AA Chapter. He serves as head of the executive board and oversees all activities at NEU PDP. Marty also loves to play chess.
+    facebookURL   : https://www.facebook.com/heyitsmarty
 
-  - image         : images/team/member-2.jpg
-    name          : Leo Departure
-    designation   : Web Developer
-    description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+  - image         : images/team/brayden.jpg
+    name          : Brayden "Zeal" Tokuyama
+    designation   : External Vice President & Rush Chair, FA17
+    description   : >-
+      Brayden is the EVP and oversees all external event related activities, such as guest speaker, cultural, and probate events. 
+      Brayden also love to play Basketball.
+    facebookURL   : https://www.facebook.com/brayden.tokuyama
 
-  - image         : images/team/member-3.jpg
-    name          : Remoni Rio
-    designation   : Senior Developer
+  - image         : images/team/richard.jpg
+    name          : Richard "Kodak" Zheng
+    designation   : Treasurer, F18 
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+      Richard is the Treasuer and oversees all financial & accounting activities for our organization. Richard always carries his iPad.
+    facebookURL   : https://www.facebook.com/richard.zheng.9887
 
-  - image         : images/team/member-4.jpg
-    name          : Lawandeski Roma
-    designation   : Designer
+  - image         : images/team/woo.jpg
+    name          : Woo Sek "A$AP" Chung
+    designation   : Internal Vice President, S18
     description   : >
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    facebookURL   : https://www.facebook.com/
-    twitterURL    : https://twitter.com/
-    gplusURL      : https://plus.google.com/
-    dribbbleURL   : https://dribbble.com/
+      Woo is the IVP and makes sure our internal activties run smoothly. Woo is the biggest man in our fraternity.
+    facebookURL   : https://www.facebook.com/woosek.chung
+
+  - image         : images/team/ryo.jpg
+    name          : Ryo "Maestro" Tsuda
+    designation   : Recorder & Performance Chair, F17
+    description   : >
+      Ryo is the Recorder of the AA Chapter and handles all administrative and logistical matters. Ryo is a talented singer and part of the NEU Downbeats A Capella group.
+    facebookURL   : https://www.facebook.com/ryo.tsuda.98
+
+  - image         : images/team/ernie.png
+    name          : Ernie "Hiro" Hao
+    designation   : Associate & Web Developer, F16
+    description   : >
+      Ernie is an Associate member and the main developer for this site. Ernie loves fresh coffee.
+    facebookURL   : https://www.facebook.com/emomastersuperman
+    githubURL: https://github.com/ernie-h #TODO: Get this to work
+
+  - image         : images/team/justinyu1.png
+    name          : Justin "Synergy" Yu
+    designation   : Alumni Relations & Banquet Chair, S17
+    description   : >
+      Justin holds the Alumni relations chair, focused on maintaining relationships with our Alumni. Justin's favorite color is Green.
+    facebookURL   : https://www.facebook.com/justin.yu.5
+
+  - image         : images/team/kevin.jpg
+    name          : Kevin "Logic" Kim
+    designation   : Alum & Banquet Chair, S17
+    description   : >
+      Kevin is this year's Banquet chair, focusing on organizing NEU PDPs Spring Banquet. Kevin's favorite vegetable is kale.
+    facebookURL   : https://www.facebook.com/kevkimmy14
+
+  - image         : images/team/patton.jpg
+    name          : Patton "Blizzard" Lu
+    designation   : Rush & Wellness Chair, S17
+    description   : >
+      Patton is a second-time rush chair and pilot holder for our new Wellness chair, focused on physical & mental health in our org. Patton is a gym rat.
+    facebookURL   : https://www.facebook.com/patton.lulu
+
+  - image         : images/team/jerry.png
+    name          : Jerry "Chance" Chen
+    designation   : Alum & Banquet Chair, S17
+    description   : >
+      Jerry is an alum and holds the second banquet chair position. Jerry likes whips
+    facebookURL   : https://www.facebook.com/jerry.chen.773124
+
+  - image         : images/team/ed.png
+    name          : Edward "Calcifer" Lam
+    designation   : Wellness Chair, F17
+    description   : >
+      Ed holds the second Welness chair position. Ed has a pet hamster.
+    facebookURL   : https://www.facebook.com/edward.lam.92102
+
+  - image         : images/team/jake.png
+    name          : Jake "Patrón" Li
+    designation   : Fundraising & Performance Chair, S18
+    description   : >
+      Jake is one of our Fundraising chairs, focused on raising funds for our org. Jake's loves to sing.
+    facebookURL   : https://www.facebook.com/jake.wu.9
+
+  - image         : images/team/jackf.png
+    name          : Jack "Mantis" Fransisco
+    designation   : Performance Chair, S18
+    description   : >
+      Jack is on of our perfromance chairs and an active member since Spring 18. Jack helped to charter the co-ed medical fraternity Phi Delta Epsilon at NEU.
+    facebookURL   : https://www.facebook.com/jack.francisco.5249
+
+  - image         : images/team/wes.jpg
+    name          : Wesley "Lithium" Li
+    designation   : Active, S18
+    description   : >
+      Wesley is our chapter Mom and an active member since Spring 18. Wesley loves to cook.
+    facebookURL   : https://www.facebook.com/WesWeasel

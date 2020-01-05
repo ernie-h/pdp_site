@@ -1,4 +1,4 @@
-enable  : true
+enable  : false # TODO: Remove for event showcase
 topTitle: RECENT WORK
 title   : WORK SHOWCASE.
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!
