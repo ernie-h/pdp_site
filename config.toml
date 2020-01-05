@@ -1,7 +1,5 @@
-# baseURL = "https://example.org/"
 languageCode = "en-us"
 title = "NEU Pi Delta Psi"
-# theme = "navigator-hugo"
 summaryLength = 10
 
 # Build robots.txt file
@@ -28,7 +26,7 @@ DefaultContentLanguage = "en"
     weight = 2
 
     #FOOTER
-    footerDescription = "Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
+    footerDescription = "This site belongs to the Alpha Alpha Chapter of Pi Delta Psi Fraternity Inc. Northeastern University"
     footerServiceTitle = "Service"
     footerQuicklinkTitle = "Quicklinks"
     footerAboutTitle = "About"
@@ -52,8 +50,8 @@ DefaultContentLanguage = "en"
         description = "Pi Delta Psi is an Asian American Cultural Fraternity founded on February 20, 1994 at Binghamton University in Binghamton, New York. Since our founding, the primary mission of Pi Delta Psi has been to spread Asian American Cultural awareness in an effort to empower the entire Asian American community. We are guided by four pillars; Academic Achievement, Cultural Awareness, Righteousness, and Friendship/Loyalty. The Northeastern University Chapter was established in 2005, and since then we have grown to be 143 brothers strong."
     
     # Blog Section On Homepage
-    [params.blog]
-        enable  = true
+    [params.blog] # TODO: Disabled blog for now
+        enable  = false
         topTitle= "OUR UNTOLD STORY"
         title   = "Blog."
         subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
@@ -61,27 +59,27 @@ DefaultContentLanguage = "en"
     # Contact Section
     [params.contact]
         enable  = true
-        topTitle= "DROP US A NOTE"
+        topTitle= "LET'S TALK"
         title   = "Contact Us."
-        subtitle= "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-        address = "14/05, Stockhome <br> Victori Palace , United States"
+        subtitle= "We'd love to get in contact if you have any questions or concerns."
+        address = "360 Huntington Ave, Boston, MA 02115, United States"
         phone   = "(03) 9283 2617"
-        fax     = "+61 3827 3590"
-        facebook= "https://www.facebook.com/"
-        twitter = "https://twitter.com/"
-        linkedin= "https://www.linkedin.com/"
-        dribbble= "https://dribbble.com/"
-        instagram= "https://www.instagram.com/"
-        mapLatitude = "51.507351"
-        mapLongitude= "-0.127758"
+        # fax     = "+61 3827 3590"
+        facebook= "https://www.facebook.com/northeastern.pideltapsi/"
+        # twitter = "https://twitter.com/"
+        # linkedin= "https://www.linkedin.com/"
+        # dribbble= "https://dribbble.com/"
+        instagram= "https://www.instagram.com/neupdpsi"
+        mapLatitude = "42.3402"
+        mapLongitude= "71.0893"
         mapMarker   = "images/marker.png"
 
     # Call to Action Section on About Page
     [params.cta]
         enable  = true
         bg      = "images/call-to-action/call-to-action-bg-2.jpg"
-        title   = "Let's Create Something Together"
-        subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
+        title   = "Let's get in Contact!"
+        subtitle= "We value any questions you may have, whether you are a curious student, Brother from another chapter, or School official, please don't hesitate to reach out! "
         btnText = "Contact Us"
 
 # We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
@@ -93,22 +91,22 @@ DefaultContentLanguage = "en"
         name    = "about"
         url     = "about"
         weight  = 2
-    [[menu.nav]]
-        name    = "service"
-        url     = "service"
-        weight  = 3
-    [[menu.nav]]
-        name    = "portfolio"
-        url     = "portfolio"
-        weight  = 4
-    [[menu.nav]]
-        name    = "blog"
-        url     = "blog"
-        weight  = 5
+    # [[menu.nav]]
+    #     name    = "service"
+    #     url     = "service"
+    #     weight  = 3
+    # [[menu.nav]]
+    #     name    = "portfolio"
+    #     url     = "portfolio"
+    #     weight  = 4
+    # [[menu.nav]]
+    #     name    = "blog"
+    #     url     = "blog"
+    #     weight  = 5
     [[menu.nav]]
         name    = "contact"
         url     = "contact"
-        weight  = 6
+        weight  = 3
 
     # Footer Service Menu
     [[menu.service]]
