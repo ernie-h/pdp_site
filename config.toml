@@ -27,7 +27,7 @@ DefaultContentLanguage = "en"
 
     #FOOTER
     footerDescription = "This site belongs to the Alpha Alpha Chapter of Pi Delta Psi Fraternity Inc. Northeastern University"
-    footerServiceTitle = "Service"
+    # footerServiceTitle = "Service"
     footerQuicklinkTitle = "Quicklinks"
     footerAboutTitle = "About"
     footerSubscribeTitle = "Subscribe"
@@ -62,8 +62,8 @@ DefaultContentLanguage = "en"
         topTitle= "LET'S TALK"
         title   = "Contact Us."
         subtitle= "We'd love to get in contact if you have any questions or concerns."
-        address = "360 Huntington Ave, Boston, MA 02115, United States"
-        phone   = "(03) 9283 2617"
+        address = "360 Huntington Ave, Boston, MA 02115, U.S.A"
+        email   = "President.AlphaAlpha@pideltapsi.com"
         # fax     = "+61 3827 3590"
         facebook= "https://www.facebook.com/northeastern.pideltapsi/"
         # twitter = "https://twitter.com/"
@@ -109,33 +109,33 @@ DefaultContentLanguage = "en"
         weight  = 3
 
     # Footer Service Menu
-    [[menu.service]]
-        name    = "graphicdesign"
-        url     = "service"
-        weight  = 1
-    [[menu.service]]
-        name    = "webdesign"
-        url     = "service"
-        weight  = 2
-    [[menu.service]]
-        name    = "webdevelopment"
-        url     = "service"
-        weight  = 3
+    # [[menu.service]]
+    #     name    = "graphicdesign"
+    #     url     = "service"
+    #     weight  = 1
+    # [[menu.service]]
+    #     name    = "webdesign"
+    #     url     = "service"
+    #     weight  = 2
+    # [[menu.service]]
+    #     name    = "webdevelopment"
+    #     url     = "service"
+    #     weight  = 3
 
     # Footer Quick links Menu
     [[menu.quicklink]]
-        name    = "partners"
+        name    = "about"
         url     = "about"
         weight  = 1
     [[menu.quicklink]]
-        name    = "about"
-        url     = "about"
+        name    = "contact"
+        url     = "contact"
         weight  = 2
-    [[menu.quicklink]]
-        name    = "faqs"
-        url     = "about"
-        weight  = 3
-    [[menu.quicklink]]
-        name    = "badges"
-        url     = "about"
-        weight  = 4
+    # [[menu.quicklink]]
+    #     name    = "faqs"
+    #     url     = "about"
+    #     weight  = 3
+    # [[menu.quicklink]]
+    #     name    = "badges"
+    #     url     = "about"
+    #     weight  = 4
