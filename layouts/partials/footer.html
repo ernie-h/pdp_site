@@ -70,7 +70,7 @@
 {{ "<!-- Smooth Scroll js -->" | safeHTML }}
 <script src="{{ "plugins/smooth-scroll/dist/js/smooth-scroll.min.js" | absURL }}"></script>
 <!-- TODO: Uncomment no internet -->
-<!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCC72vZw-6tGqFyRhhg5CkF2fqfILn2Tsw"></script> -->
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCC72vZw-6tGqFyRhhg5CkF2fqfILn2Tsw"></script>
 {{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify}}
 <script src="{{ $script.Permalink }}"></script>
