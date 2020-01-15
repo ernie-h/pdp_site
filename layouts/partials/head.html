@@ -27,5 +27,5 @@
 
 {{ $styles := resources.Get "css/style.css" | minify}}
 <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
-
+{{ template "_internal/google_analytics.html" . }}
 </head>

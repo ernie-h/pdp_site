@@ -5,7 +5,7 @@ summaryLength = 10
 # Build robots.txt file
 enableRobotsTXT = true
 # google analytics tracking id
-googleAnalytics = ""
+googleAnalytics = "UA-156256639-1"
 
 enableGitInfo = false
 pygmentsCodeFences = true
@@ -71,7 +71,7 @@ DefaultContentLanguage = "en"
         # dribbble= "https://dribbble.com/"
         instagram= "https://www.instagram.com/neupdpsi"
         mapLatitude = "42.3402"
-        mapLongitude= "71.0893"
+        mapLongitude= "-71.0893"
         mapMarker   = "images/marker.png"
 
     # Call to Action Section on About Page
@@ -87,10 +87,11 @@ DefaultContentLanguage = "en"
 # Site Menus
 [menu]
     # Navbar Menus
-    [[menu.nav]]
-        name    = "about"
-        url     = "about"
-        weight  = 2
+    # TODO: UNcomment later
+    # [[menu.nav]] 
+    #     name    = "about"
+    #     url     = "about"
+    #     weight  = 2
     # [[menu.nav]]
     #     name    = "service"
     #     url     = "service"
@@ -103,10 +104,11 @@ DefaultContentLanguage = "en"
     #     name    = "blog"
     #     url     = "blog"
     #     weight  = 5
-    [[menu.nav]]
-        name    = "contact"
-        url     = "contact"
-        weight  = 3
+    # TODO: Uncomment later
+    # [[menu.nav]]
+    #     name    = "contact"
+    #     url     = "contact"
+    #     weight  = 3
 
     # Footer Service Menu
     # [[menu.service]]
