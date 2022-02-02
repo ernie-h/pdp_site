@@ -1,206 +1,206 @@
-enable  : true
+enable: true
 topTitle: THE BROTHERS
-title   : Our Active House.
+title: Our Active House.
 subtitle: We prize ourselves on having one of the largest active house rosters in the Nation. 32 Strong.
 
-member  :
-  - image         : images/team/marty.jpg
-    name          : Marty "Zomboy" Vo
-    designation   : President, S18
-    description   : >
+member:
+  - image: images/team/marty.jpg
+    name: Marty "Zomboy" Vo
+    designation: President, S18
+    description: >
       Marty is the 14th President of the AA Chapter. He serves as head of the executive board and oversees all activities at NEU PDP. Marty also loves to play chess.
-    facebookURL   : https://www.facebook.com/heyitsmarty
+    facebookURL: https://www.facebook.com/heyitsmarty
 
-  - image         : images/team/brayden.jpg
-    name          : Brayden "Zeal" Tokuyama
-    designation   : External Vice President & Rush Chair, FA17
-    description   : >-
+  - image: images/team/brayden.jpg
+    name: Brayden "Zeal" Tokuyama
+    designation: External Vice President & Rush Chair, FA17
+    description: >-
       Brayden is the EVP and oversees all external event related activities, such as guest speaker, cultural, and probate events. 
       Brayden also love to play Basketball.
-    facebookURL   : https://www.facebook.com/brayden.tokuyama
+    facebookURL: https://www.facebook.com/brayden.tokuyama
 
-  - image         : images/team/richard.jpg
-    name          : Richard "Kodak" Zheng
-    designation   : Treasurer, F18 
-    description   : >
+  - image: images/team/richard.jpg
+    name: Richard "Kodak" Zheng
+    designation: Treasurer, F18
+    description: >
       Richard is the Treasuer and oversees all financial & accounting activities for our organization. Richard always carries his iPad.
-    facebookURL   : https://www.facebook.com/richard.zheng.9887
+    facebookURL: https://www.facebook.com/richard.zheng.9887
 
-  - image         : images/team/woo.jpg
-    name          : Woo Sek "A$AP" Chung
-    designation   : Internal Vice President, S18
-    description   : >
+  - image: images/team/woo.jpg
+    name: Woo Sek "A$AP" Chung
+    designation: Internal Vice President, S18
+    description: >
       Woo is the IVP and makes sure our internal activties run smoothly. Woo is the biggest man in our fraternity.
-    facebookURL   : https://www.facebook.com/woosek.chung
+    facebookURL: https://www.facebook.com/woosek.chung
 
-  - image         : images/team/ryo.jpg
-    name          : Ryo "Maestro" Tsuda
-    designation   : Recorder & Performance Chair, F17
-    description   : >
-      Ryo is the Recorder of the AA Chapter and handles all administrative and logistical matters. Ryo is a talented singer and part of the NEU Downbeats A Capella group.
-    facebookURL   : https://www.facebook.com/ryo.tsuda.98
+  - image: images/team/ryo.jpg
+    name: Ryo "Maestro" Tsuda
+    designation: Recorder & Performance Chair, F17
+    description: >
+      Ryo is the President of the AA Chapter and handles all administrative and logistical matters. Ryo is a talented singer and part of the NEU Downbeats A Capella group.
+    facebookURL: https://www.facebook.com/ryo.tsuda.98
 
-  - image         : images/team/ernie.png
-    name          : Ernie "Hiro" Hao
-    designation   : Alumni & Web Developer, F16
-    description   : >
+  - image: images/team/ernie.png
+    name: Ernie "Hiro" Hao
+    designation: Alumni & Web Developer, F16
+    description: >
       Ernie is an Associate member and the main developer for this site. Ernie loves fresh coffee.
-    facebookURL   : https://www.facebook.com/emomastersuperman
+    facebookURL: https://www.facebook.com/emomastersuperman
     githubURL: https://github.com/ernie-h #TODO: Get this to work
 
-  - image         : images/team/justinyu1.png
-    name          : Justin "Synergy" Yu
-    designation   : Alumni Relations & Banquet Chair, S17
-    description   : >
+  - image: images/team/justinyu1.png
+    name: Justin "Synergy" Yu
+    designation: Alumni Relations & Banquet Chair, S17
+    description: >
       Justin holds the Alumni relations chair, focused on maintaining relationships with our Alumni. Justin's favorite color is Green.
-    facebookURL   : https://www.facebook.com/justin.yu.5
+    facebookURL: https://www.facebook.com/justin.yu.5
 
-  - image         : images/team/kevin.jpg
-    name          : Kevin "Logic" Kim
-    designation   : Alum & Banquet Chair, S17
-    description   : >
+  - image: images/team/kevin.jpg
+    name: Kevin "Logic" Kim
+    designation: Alum & Banquet Chair, S17
+    description: >
       Kevin is this year's Banquet chair, focusing on organizing NEU PDPs Spring Banquet. Kevin's favorite vegetable is kale.
-    facebookURL   : https://www.facebook.com/kevkimmy14
+    facebookURL: https://www.facebook.com/kevkimmy14
 
-  - image         : images/team/patton.jpg
-    name          : Patton "Blizzard" Lu
-    designation   : Rush & Wellness Chair, S17
-    description   : >
+  - image: images/team/patton.jpg
+    name: Patton "Blizzard" Lu
+    designation: Rush & Wellness Chair, S17
+    description: >
       Patton is our second-time rush chair, focused on recruiting new members on campus, and also holds our new Wellness chair. Patton is a gym rat.
-    facebookURL   : https://www.facebook.com/patton.lulu
+    facebookURL: https://www.facebook.com/patton.lulu
 
-  - image         : images/team/jerry.png
-    name          : Jerry "Chance" Chen
-    designation   : Alum & Banquet Chair, S17
-    description   : >
+  - image: images/team/jerry.png
+    name: Jerry "Chance" Chen
+    designation: Alum & Banquet Chair, S17
+    description: >
       Jerry is an alum and holds the second banquet chair position. Jerry likes whips
-    facebookURL   : https://www.facebook.com/jerry.chen.773124
+    facebookURL: https://www.facebook.com/jerry.chen.773124
 
-  - image         : images/team/ed.png
-    name          : Edward "Calcifer" Lam
-    designation   : Wellness Chair, F17
-    description   : >
+  - image: images/team/ed.png
+    name: Edward "Calcifer" Lam
+    designation: Wellness Chair, F17
+    description: >
       Ed holds the second Welness chair position, focused on physical & mental health in our organization. Ed has a pet hamster.
-    facebookURL   : https://www.facebook.com/edward.lam.92102
+    facebookURL: https://www.facebook.com/edward.lam.92102
 
-  - image         : images/team/jake.png
-    name          : Jake "Patrón" Wu
-    designation   : Fundraising & Performance Chair, S18
-    description   : >
+  - image: images/team/jake.png
+    name: Jake "Patrón" Wu
+    designation: Fundraising & Performance Chair, S18
+    description: >
       Jake is one of our Fundraising chairs, focused on raising funds for our organization, and also one of our performance chairs. Jake's loves to sing.
-    facebookURL   : https://www.facebook.com/jake.wu.9
+    facebookURL: https://www.facebook.com/jake.wu.9
 
-  - image         : images/team/jackf.png
-    name          : Jack "Mantis" Fransisco
-    designation   : Performance Chair, S18
-    description   : >
+  - image: images/team/jackf.png
+    name: Jack "Mantis" Fransisco
+    designation: Performance Chair, S18
+    description: >
       Jack is on of our perfromance chairs and an active member since Spring 18. Jack helped to charter the co-ed medical fraternity Phi Delta Epsilon at NEU.
-    facebookURL   : https://www.facebook.com/jack.francisco.5249
+    facebookURL: https://www.facebook.com/jack.francisco.5249
 
-  - image         : images/team/wes.jpg
-    name          : Wesley "Lithium" Li
-    designation   : Active, S18
-    description   : >
+  - image: images/team/wes.jpg
+    name: Wesley "Lithium" Li
+    designation: Active, S18
+    description: >
       Wesley is our chapter Mom and an active member since Spring 18. Wesley loves to cook.
-    facebookURL   : https://www.facebook.com/WesWeasel
+    facebookURL: https://www.facebook.com/WesWeasel
 
-# ALPHA ALPHAS
-  - image         : images/team/justinw.jpg
-    name          : Justin "Blur" Woo
-    designation   : Brother Unity Chair, F18
-    description   : >
+  # ALPHA ALPHAS
+  - image: images/team/justinw.jpg
+    name: Justin "Blur" Woo
+    designation: Brother Unity Chair, F18
+    description: >
       Justin holds one of our BU Chairs, focusing on events for Brothers to bond, such as Chill & Grills and sports tournaments. Justin has a real-life hall of fame anklebreaker badge.
-    facebookURL   : https://www.facebook.com
+    facebookURL: https://www.facebook.com
 
-  - image         : images/team/shaun.jpg
-    name          : Shaun "Offset" Khundker
-    designation   : Social & Fundraising Chair, F18
-    description   : >
+  - image: images/team/shaun.jpg
+    name: Shaun "Offset" Khundker
+    designation: Social & Fundraising Chair, F18
+    description: >
       Shaun holds one of our Social chairs, focused on organizing social events with other organizations, and also holds a second fundraising chair. Shaun shreds it on the electric guitar.
-    facebookURL   : https://www.facebook.com
+    facebookURL: https://www.facebook.com
 
-  - image         : images/team/milton.jpg
-    name          : Milton "Tenjin" Cheung
-    designation   : Brother Unity Chair, F18
-    description   : >
+  - image: images/team/milton.jpg
+    name: Milton "Tenjin" Cheung
+    designation: Brother Unity Chair, F18
+    description: >
       Milton holds our second BU Chair. Milton also studied abroad in Ireland this past summer.
-    facebookURL   : https://www.facebook.com/topofthedumpling
+    facebookURL: https://www.facebook.com/topofthedumpling
 
-  - image         : images/team/gio.jpg
-    name          : Gio "Mako" Ong
-    designation   : Fundraising Chair, F18
-    description   : >
+  - image: images/team/gio.jpg
+    name: Gio "Mako" Ong
+    designation: Fundraising Chair, F18
+    description: >
       Gio is our veteran Fundraising chair of two years. Gio is currently at the bottom of our fantasy basketball league.
-    facebookURL   : https://www.facebook.com
+    facebookURL: https://www.facebook.com
 
-  - image         : images/team/penjo.jpg
-    name          : Tsering "Clockwork" Penjo
-    designation   : Rush, Social, & Community Service Chair, F18
-    description   : >
+  - image: images/team/penjo.jpg
+    name: Tsering "Clockwork" Penjo
+    designation: Rush, Social, & Community Service Chair, F18
+    description: >
       Penjo is our do-it-all Brother, holding three chairs, including our CS chair, focused on organizing CS events around Boston. Penjo is also our softest Bro.
-    facebookURL   : https://www.facebook.com
+    facebookURL: https://www.facebook.com
 
-# ALPHA BETAS
-  - image         : images/team/justinyu2.jpg
-    name          : Justin "Ember" Yu
-    designation   : Philanthropy Chair, S19
-    description   : >
+  # ALPHA BETAS
+  - image: images/team/justinyu2.jpg
+    name: Justin "Ember" Yu
+    designation: Philanthropy Chair, S19
+    description: >
       Justin is our Philanthropy chair, organizing events that support our natioanl Philanthropy. There are two Justin Yus.
-    facebookURL   : https://www.facebook.com
+    facebookURL: https://www.facebook.com
 
-  - image         : images/team/jae.jpg
-    name          : Jae Hoon "Warrior" Choi
-    designation   : Fundraising Chair, S19
-    description   : >
+  - image: images/team/jae.jpg
+    name: Jae Hoon "Warrior" Choi
+    designation: Fundraising Chair, S19
+    description: >
       Jae is our veteran fundraising chair for two semesters running. Jae is skinny.
-    facebookURL   : https://www.facebook.com
+    facebookURL: https://www.facebook.com
 
-  - image         : images/team/nick.jpg
-    name          : Nick "Porter" Cao
-    designation   : Pan-Asian American Council Chair, S19
-    description   : >
-      Nick is our PAAC Chair and acts as a liason between us and all other PAAC Organizations. Nick loves to run and participated in the Boston marathon.
-    facebookURL   : https://www.facebook.com
+  - image: images/team/nick.jpg
+    name: Nick "Porter" Cao
+    designation: Pan-Asian American Council Chair, S19
+    description: >
+      Nick is our COOL KID Chair and acts as a liason between us and all other PAAC Organizations. Nick loves to run and participated in the Boston marathon.
+    facebookURL: https://www.facebook.com
 
-  - image         : images/team/jackl.jpg
-    name          : Jack "Charm" Liang
-    designation   : Public Relations & Brother Unity Chair, S19
-    description   : >
+  - image: images/team/jackl.jpg
+    name: Jack "Charm" Liang
+    designation: Public Relations & Brother Unity Chair, S19
+    description: >
       Jack is our PR chair, focused on posting our activities on social platforms, and is our third BU chair. Jack is from Burma.
-    facebookURL   : https://www.facebook.com
+    facebookURL: https://www.facebook.com
 
-  - image         : images/team/lex.jpg
-    name          : Lex "WarChief" Lei
-    designation   : Fraternity Artist & Rush Chair, S19
-    description   : >
+  - image: images/team/lex.jpg
+    name: Lex "WarChief" Lei
+    designation: Fraternity Artist & Rush Chair, S19
+    description: >
       Lex is our third Rush chair and also our Fraternity Artist, focused on all design related activities. Lex studied abroad in Singapore this past semester.
-    facebookURL   : https://www.facebook.com/lex.lei.5
+    facebookURL: https://www.facebook.com/lex.lei.5
 
-  - image         : images/team/kenny.jpg
-    name          : Kenny "Vibranium" Huang
-    designation   : Cultural Chair, S19
-    description   : >
+  - image: images/team/kenny.jpg
+    name: Kenny "Vibranium" Huang
+    designation: Cultural Chair, S19
+    description: >
       Kenny holds one of our Cultural Chair positions, focused on spreading cultural awarenes internally & externally. Kenny is big.
-    facebookURL   : https://www.facebook.com
+    facebookURL: https://www.facebook.com
 
-  - image         : images/team/jon.jpg
-    name          : Jonathan "Shard" Chan
-    designation   : Active, S19
-    description   : >
+  - image: images/team/jon.jpg
+    name: Jonathan "Shard" Chan
+    designation: Active, S19
+    description: >
       Jonathan is our Spring 19 Geo. JC is also a stick
-    facebookURL   : https://www.facebook.com
+    facebookURL: https://www.facebook.com
 
-# ALPHA GAMMAS
-  - image         : images/team/chris.jpg
-    name          : Chris "Gold" Su
-    designation   : Community Service, Academic Chair, & Multicultural Greek Council Chair, F19
-    description   : >
+  # ALPHA GAMMAS
+  - image: images/team/chris.jpg
+    name: Chris "Gold" Su
+    designation: Community Service, Academic Chair, & Multicultural Greek Council Chair, F19
+    description: >
       Chris is one of our neos and holds 3 chairs, including our Academic chair, focused on maintaining academic excellence in our fraternity. Chris is a Miami Heat fan.
-    facebookURL   : https://www.facebook.com
+    facebookURL: https://www.facebook.com
 
-  - image         : images/team/warin.jpg
-    name          : Warin "Abstract" Sae Sae
-    designation   : Cultural & Multicultural Greek Council Chair, S19
-    description   : >
+  - image: images/team/warin.jpg
+    name: Warin "Abstract" Sae Sae
+    designation: Cultural & Multicultural Greek Council Chair, S19
+    description: >
       Warin is our second neo and holds 2 chairs, including our MGC chair, which acts as a liason between us and the Multicultural Greek Council. Warin has many exotic animals, including a sloth.
-    facebookURL   : https://www.facebook.com
+    facebookURL: https://www.facebook.com
