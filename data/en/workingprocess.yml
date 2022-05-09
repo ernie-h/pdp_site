@@ -1,28 +1,28 @@
-enable  : true
+enable: true
 topTitle: HOW WE WORK
-title   : Our Four Pillars
+title: Our Four Pillars
 subtitle: Pi Delta Psi was founded on four pillars that embody the purpose of our Fraternity.
-item    :
-  - number  : 1
-    icon    : tf-ion-ios-book-outline
-    title   : Academic Achievement
-    description : >
-      Stive to main academic excellence in our studies and work. 
+item:
+  - number: 1
+    icon: tf-ion-ios-book-outline
+    title: Academic Achievement
+    description: >
+      Stive to main academic excellence in our studies and work.
 
-  - number  : 2
-    icon    : tf-ion-ios-flag-outline
-    title   : Cultural Awareness
-    description : >
+  - number: 2
+    icon: tf-ion-ios-flag-outline
+    title: Cultural Awareness
+    description: >
       Understand our cultural identity and how it fits in today's world.
 
-  - number  : 3
-    icon    : tf-ion-ios-checkmark-outline
-    title   : Righteousness
-    description : >
+  - number: 3
+    icon: tf-ion-ios-checkmark-outline
+    title: Righteousness
+    description: >
       Fight for what is right and never be complacement in the face of injustice.
 
-  - number  : 4
-    icon    : tf-ion-ios-basketball-outline
-    title   : Friendship and Loyalty
-    description : >
+  - number: 4
+    icon: tf-ion-ios-basketball-outline
+    title: Friendship and Loyalty
+    description: >
       Value the relationships we build and never leave a Brother behind.

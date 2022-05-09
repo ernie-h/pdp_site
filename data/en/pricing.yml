@@ -1,23 +1,21 @@
-enable  : true #TODO: Change if we need
+enable: true #TODO: Change if we need
 topTitle: Interested in us?
-title   : Rush Schedule
-subtitle : Spring 20 Rush is right around the corner! Rush is a series of non-binding events for you to meet our Brothers and see if Pi Delta Psi is for you. Check the video at the top of the page for more information.
-
-item  :
-  - name        : BASIC
-    price       : $99
-    description : Perfect for single freelancers who work by themselves
-    img : static/images/pricing-bg.jpg
-    featurelist :
+title: What is Rush?
+subtitle: Rush is a series of non-binding events for you to meet our Brothers and see if Pi Delta Psi is for you.  Rush typically occurs within the first couple weeks of a semester, and consists of two weeks of fun events to meet the Brothers of Pi Delta Psi.
+item:
+  - name: BASIC
+    price: $99
+    description: Perfect for single freelancers who work by themselves
+    img: static/images/pricing-bg.jpg
+    featurelist:
       - item: 1GB Disk Space
       - item: 10 Email Account
       - item: Script Installer
       - item: 1 GB Storage
       - item: 10 GB Bandwidth
       - item: 24/7 Tech Support
-    btnText     : Learn More
-    btnURL      : https://themefisher.com/
-
+    btnText: Learn More
+    btnURL: https://themefisher.com/
 #   - name        : ADVANCE
 #     price       : $199
 #     description : Suitable for small businesses with up to 5 employees

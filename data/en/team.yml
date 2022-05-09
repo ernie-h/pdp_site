@@ -1,206 +1,353 @@
 enable: true
 topTitle: THE BROTHERS
 title: Our Active House.
-subtitle: We prize ourselves on having one of the largest active house rosters in the Nation. 32 Strong.
+subtitle: We prize ourselves on having one of the largest chapter rosters in the Nation.
 
 member:
-  - image: images/team/marty.jpg
-    name: Marty "Zomboy" Vo
-    designation: President, S18
-    description: >
-      Marty is the 14th President of the AA Chapter. He serves as head of the executive board and oversees all activities at NEU PDP. Marty also loves to play chess.
-    facebookURL: https://www.facebook.com/heyitsmarty
-
-  - image: images/team/brayden.jpg
-    name: Brayden "Zeal" Tokuyama
-    designation: External Vice President & Rush Chair, FA17
-    description: >-
-      Brayden is the EVP and oversees all external event related activities, such as guest speaker, cultural, and probate events. 
-      Brayden also love to play Basketball.
-    facebookURL: https://www.facebook.com/brayden.tokuyama
-
-  - image: images/team/richard.jpg
-    name: Richard "Kodak" Zheng
-    designation: Treasurer, F18
-    description: >
-      Richard is the Treasuer and oversees all financial & accounting activities for our organization. Richard always carries his iPad.
-    facebookURL: https://www.facebook.com/richard.zheng.9887
-
-  - image: images/team/woo.jpg
-    name: Woo Sek "A$AP" Chung
-    designation: Internal Vice President, S18
-    description: >
-      Woo is the IVP and makes sure our internal activties run smoothly. Woo is the biggest man in our fraternity.
-    facebookURL: https://www.facebook.com/woosek.chung
-
+  # EBoard
   - image: images/team/ryo.jpg
     name: Ryo "Maestro" Tsuda
-    designation: Recorder & Performance Chair, F17
+    designation: President, F17
     description: >
-      Ryo is the President of the AA Chapter and handles all administrative and logistical matters. Ryo is a talented singer and part of the NEU Downbeats A Capella group.
+      Ryo is the 16th President of the AA Chapter. He serves as head of the executive board and oversees all activities at NEU PDP. Ryo also enjoys singing and sports science. Ryo has been through 10 semesters. He carries the fraternity on his back. Literally. Baki.
     facebookURL: https://www.facebook.com/ryo.tsuda.98
+    instagramURL: https://www.instagram.com/ryo_tsuda/?hl=en
 
-  - image: images/team/ernie.png
-    name: Ernie "Hiro" Hao
-    designation: Alumni & Web Developer, F16
-    description: >
-      Ernie is an Associate member and the main developer for this site. Ernie loves fresh coffee.
-    facebookURL: https://www.facebook.com/emomastersuperman
-    githubURL: https://github.com/ernie-h #TODO: Get this to work
+  - image: images/team/warin.jpg
+    name: Warin "Abstract" Sae-Sae
+    designation: External Vice President, F19
+    description: >-
+      Warin is the EVP and oversees all external event related activities, such as guest speaker, cultural, and probate events. Warin has a collection of rare animals. Warin is like a polar bear, super scary, but also very friendly.
+    facebookURL: https://www.facebook.com/warin.sae/
+    instagramURL: https://www.instagram.com/warinsae/?hl=en
 
-  - image: images/team/justinyu1.png
-    name: Justin "Synergy" Yu
-    designation: Alumni Relations & Banquet Chair, S17
+  - image: images/team/chris.jpg
+    name: Chris "Gold" Su
+    designation: Treasurer, F19
     description: >
-      Justin holds the Alumni relations chair, focused on maintaining relationships with our Alumni. Justin's favorite color is Green.
-    facebookURL: https://www.facebook.com/justin.yu.5
-
-  - image: images/team/kevin.jpg
-    name: Kevin "Logic" Kim
-    designation: Alum & Banquet Chair, S17
-    description: >
-      Kevin is this year's Banquet chair, focusing on organizing NEU PDPs Spring Banquet. Kevin's favorite vegetable is kale.
-    facebookURL: https://www.facebook.com/kevkimmy14
-
-  - image: images/team/patton.jpg
-    name: Patton "Blizzard" Lu
-    designation: Rush & Wellness Chair, S17
-    description: >
-      Patton is our second-time rush chair, focused on recruiting new members on campus, and also holds our new Wellness chair. Patton is a gym rat.
-    facebookURL: https://www.facebook.com/patton.lulu
-
-  - image: images/team/jerry.png
-    name: Jerry "Chance" Chen
-    designation: Alum & Banquet Chair, S17
-    description: >
-      Jerry is an alum and holds the second banquet chair position. Jerry likes whips
-    facebookURL: https://www.facebook.com/jerry.chen.773124
-
-  - image: images/team/ed.png
-    name: Edward "Calcifer" Lam
-    designation: Wellness Chair, F17
-    description: >
-      Ed holds the second Welness chair position, focused on physical & mental health in our organization. Ed has a pet hamster.
-    facebookURL: https://www.facebook.com/edward.lam.92102
-
-  - image: images/team/jake.png
-    name: Jake "Patrón" Wu
-    designation: Fundraising & Performance Chair, S18
-    description: >
-      Jake is one of our Fundraising chairs, focused on raising funds for our organization, and also one of our performance chairs. Jake's loves to sing.
-    facebookURL: https://www.facebook.com/jake.wu.9
-
-  - image: images/team/jackf.png
-    name: Jack "Mantis" Fransisco
-    designation: Performance Chair, S18
-    description: >
-      Jack is on of our perfromance chairs and an active member since Spring 18. Jack helped to charter the co-ed medical fraternity Phi Delta Epsilon at NEU.
-    facebookURL: https://www.facebook.com/jack.francisco.5249
-
-  - image: images/team/wes.jpg
-    name: Wesley "Lithium" Li
-    designation: Active, S18
-    description: >
-      Wesley is our chapter Mom and an active member since Spring 18. Wesley loves to cook.
-    facebookURL: https://www.facebook.com/WesWeasel
-
-  # ALPHA ALPHAS
-  - image: images/team/justinw.jpg
-    name: Justin "Blur" Woo
-    designation: Brother Unity Chair, F18
-    description: >
-      Justin holds one of our BU Chairs, focusing on events for Brothers to bond, such as Chill & Grills and sports tournaments. Justin has a real-life hall of fame anklebreaker badge.
-    facebookURL: https://www.facebook.com
-
-  - image: images/team/shaun.jpg
-    name: Shaun "Offset" Khundker
-    designation: Social & Fundraising Chair, F18
-    description: >
-      Shaun holds one of our Social chairs, focused on organizing social events with other organizations, and also holds a second fundraising chair. Shaun shreds it on the electric guitar.
-    facebookURL: https://www.facebook.com
-
-  - image: images/team/milton.jpg
-    name: Milton "Tenjin" Cheung
-    designation: Brother Unity Chair, F18
-    description: >
-      Milton holds our second BU Chair. Milton also studied abroad in Ireland this past summer.
-    facebookURL: https://www.facebook.com/topofthedumpling
-
-  - image: images/team/gio.jpg
-    name: Gio "Mako" Ong
-    designation: Fundraising Chair, F18
-    description: >
-      Gio is our veteran Fundraising chair of two years. Gio is currently at the bottom of our fantasy basketball league.
-    facebookURL: https://www.facebook.com
-
-  - image: images/team/penjo.jpg
-    name: Tsering "Clockwork" Penjo
-    designation: Rush, Social, & Community Service Chair, F18
-    description: >
-      Penjo is our do-it-all Brother, holding three chairs, including our CS chair, focused on organizing CS events around Boston. Penjo is also our softest Bro.
-    facebookURL: https://www.facebook.com
-
-  # ALPHA BETAS
-  - image: images/team/justinyu2.jpg
-    name: Justin "Ember" Yu
-    designation: Philanthropy Chair, S19
-    description: >
-      Justin is our Philanthropy chair, organizing events that support our natioanl Philanthropy. There are two Justin Yus.
-    facebookURL: https://www.facebook.com
-
-  - image: images/team/jae.jpg
-    name: Jae Hoon "Warrior" Choi
-    designation: Fundraising Chair, S19
-    description: >
-      Jae is our veteran fundraising chair for two semesters running. Jae is skinny.
-    facebookURL: https://www.facebook.com
+      Chris is the Treasuer and oversees all financial & accounting activities for our organization. Chris enjoys lifting weights, playing sports and cooking. He trains legs.
+    facebookURL: https://www.facebook.com/chris.su.140
+    instagramURL: https://www.instagram.com/chriss2226/?hl=en
 
   - image: images/team/nick.jpg
-    name: Nick "Porter" Cao
-    designation: Pan-Asian American Council Chair, S19
+    name: Nicholas "Porter" Cao
+    designation: Internal Vice President and Philanthropy Chair, S19
     description: >
-      Nick is our COOL KID Chair and acts as a liason between us and all other PAAC Organizations. Nick loves to run and participated in the Boston marathon.
-    facebookURL: https://www.facebook.com
+      Nicholas is the IVP and makes sure our internal activties run smoothly. He enjoys working out, raving and running. He aspires to be a Cow.
+    facebookURL: https://www.facebook.com/NickCao03
+    instagramURL: https://www.instagram.com/nick.tnc/?hl=en
 
-  - image: images/team/jackl.jpg
-    name: Jack "Charm" Liang
-    designation: Public Relations & Brother Unity Chair, S19
+  - image: images/team/kevinZ.png
+    name: Kevin "Glock" Zheng
+    designation: Recorder & Performance Chair, S20
     description: >
-      Jack is our PR chair, focused on posting our activities on social platforms, and is our third BU chair. Jack is from Burma.
-    facebookURL: https://www.facebook.com
+      Kevin is the Recorder of the AA Chapter and handles all administrative and logistical matters. He enjoys Lifting, cooking, sports and video games. Kevin also goes by the name Richard.
+    facebookURL: https://www.facebook.com/kevin.zheng6
+    instagramURL: https://www.instagram.com/kevinyzheng_/?hl=en
 
-  - image: images/team/lex.jpg
-    name: Lex "WarChief" Lei
-    designation: Fraternity Artist & Rush Chair, S19
-    description: >
-      Lex is our third Rush chair and also our Fraternity Artist, focused on all design related activities. Lex studied abroad in Singapore this past semester.
-    facebookURL: https://www.facebook.com/lex.lei.5
+  # S16
 
-  - image: images/team/kenny.jpg
-    name: Kenny "Vibranium" Huang
-    designation: Cultural Chair, S19
+  - image: images/team/hansun.jpg
+    name: Han Sun "Growlithe" Woo
+    designation: Active, S16
     description: >
-      Kenny holds one of our Cultural Chair positions, focused on spreading cultural awarenes internally & externally. Kenny is big.
-    facebookURL: https://www.facebook.com
+      Han Sun is our oldest active bro, recently coming back from serving in the Korean Army. He enjoys playing guitar, singing and photography. Han Sun is like a see-saw, you never know what side of him you'll get.
+    facebookURL: https://www.facebook.com/woohansun/
+    instagramURL: https://www.instagram.com/litgrowlithe/
+
+  # F16
+  - image: images/team/keetae.png
+    name: Keetae "Incognito" Kim
+    designation: Active, F16
+    description: >
+      Keetae is one of our oldest bros, recently coming back from serving in the Korean Army. He enjoys snowboarding, cooking and DJing. Keetae keeps Han Sun happy.
+    facebookURL: facebook.com/keetae.kim.9/
+    instagramURL: https://www.instagram.com/breakfast.doppio/?hl=en
+
+  # F18
+
+  - image: images/team/chantae.jpeg
+    name: Chantae "Sasuke" Park
+    designation: Active, F18
+    description: >
+      Chantae has lived in four countries, served in the Korean Army and now enjoys playing sports. 
+      He loves watching and supporting Chelsea. He embezzeles dining hall swipes.
+    facebookURL: https://www.facebook.com/chantaepark/
+    instagramURL: https://www.instagram.com/chantae.park/?hl=en
+
+  # S19
 
   - image: images/team/jon.jpg
     name: Jonathan "Shard" Chan
-    designation: Active, S19
+    designation: Banquet Chair, S19
     description: >
-      Jonathan is our Spring 19 Geo. JC is also a stick
+      Jonathan is responsible for coordinating our annual banquet. He is often known as a stick, but in his free time he plays basketball and computer games. He believes he is very Jeon.
     facebookURL: https://www.facebook.com
 
-  # ALPHA GAMMAS
-  - image: images/team/chris.jpg
-    name: Chris "Gold" Su
-    designation: Community Service, Academic Chair, & Multicultural Greek Council Chair, F19
-    description: >
-      Chris is one of our neos and holds 3 chairs, including our Academic chair, focused on maintaining academic excellence in our fraternity. Chris is a Miami Heat fan.
-    facebookURL: https://www.facebook.com
+  # F19
 
-  - image: images/team/warin.jpg
-    name: Warin "Abstract" Sae Sae
-    designation: Cultural & Multicultural Greek Council Chair, S19
+  # S20
+  - image: images/team/preston.png
+    name: Preston "Sunrise" Ho
+    designation: Active, S20
     description: >
-      Warin is our second neo and holds 2 chairs, including our MGC chair, which acts as a liason between us and the Multicultural Greek Council. Warin has many exotic animals, including a sloth.
-    facebookURL: https://www.facebook.com
+      Preston is quite a handful. Whenever he sneezes, he sneezes three times. He also enjoys cooking for his friend and family and surfing! Many say Preston resembles Oscar from Shark Tale.
+    facebookURL: https://www.facebook.com/profile.php?id=100004854018272
+    instagramURL: https://www.instagram.com/prestonho_/?hl=en
+
+  # F20
+
+  - image: images/team/jarred.png
+    name: Jarred "Grandmaster" Chow
+    designation: Active, F20
+    description: >
+      Jarred is one of our most busiest bros, but when he is free, he enjoys losing all his money playing poker. He also used to play varsity Overwatch! He shows up once in a blue moon.
+    facebookURL: https://m.facebook.com/jarredchow3
+    instagramURL: https://www.instagram.com/jarredchow/?hl=en
+
+  - image: images/team/payton.jpg
+    name: Payton "Marshal" Lee
+    designation: Social Chair and Fraternity Artist, F20
+    description: >
+      Payton is currently one of our social chairs, and helps create meaningful art and graphics for our fraternity. Payton enjoys marine biology and likes to play soccer. Payton and his hamster both like trees.
+    facebookURL: https://www.facebook.com/payton.lee.1806
+    instagramURL: https://www.instagram.com/paytonklee/?hl=en
+
+  #- image: images/team/jon.jpg
+  #  name: Ryan "Roku" Mon
+  #  designation: Active, F20
+  #  description: >
+  #    Jonathan is our Spring 19 Geo. JC is also a stick
+  #  facebookURL: https://www.facebook.com
+
+  #S21
+  - image: images/team/josh.jpg
+    name: Josh "Dior" Koay
+    designation: Fundraising Chair, S21
+    description: >
+      Josh is currently our fundraising chair, raising funds for our fraternity through various events. Josh enjoys playing basketball, cooking and drums. Josh is always sick of something.
+    facebookURL: https://www.facebook.com/jixian.koay
+    instragramURL: https://www.instagram.com/jixian_josh/?hl=en
+
+  - image: images/team/evan.png
+    name: Evan "Faze" Tran
+    designation: Social Chair, S21
+    description: >
+      Evan has been one of our social chairs for two semesters, helping organize social events for the whole fraternity to enjoy. He unfortunately cannot write with pencils. He wishes he was as cool as his big.
+    facebookURL: https://www.facebook.com/evntrn
+    instagramURL: https://www.instagram.com/evntrn/?hl=en
+
+  - image: images/team/eric.jpg
+    name: Eric "Wade" Lau
+    designation: Social Chair, MGC Chair, and Wellness Chair, S21
+    description: >
+      Eric currently holds 3 chairs, keeping everyone healthy and happy. He also enjoys weightlifting, chipotle and A Boogie wit da Hoodie.
+    facebookURL: https://www.facebook.com/profile.php?id=100007269224551
+    instagramURL: https://www.instagram.com/eric.lauu/?hl=en
+
+  - image: images/team/chriso.png
+    name: Chris "Vector" Oh
+    designation: Fundraising Chair, S21
+    description: >
+      Chris Oh is currently one our fundraising chairs. He also played the viola for 12 years and enjoys watching sports. Chris is like a golden retriever. Sometimes happy, sometimes buffering.
+    facebookURL: https://www.facebook.com/profile.php?id=100007884435540
+    instagramURL: https://www.instagram.com/chris.ohh/?hl=en
+
+  #- image: images/team/jon.jpg
+  #  name: Trevor "Kismet" Lau
+  #  designation: Active, S21
+  #  description: >
+  #    Jonathan is our Spring 19 Geo. JC is also a stick
+  #  facebookURL: https://www.facebook.com
+
+  - image: images/team/joaquin.png
+    name: Joaquin "Mana" Jimenez
+    designation: Rush Chair, Community Service Chair, Brother Unity Chair, Performance Chair S21
+    description: >
+      Joaquin currently holds four different chairs, the most out of every bro. He has a teddy bear named Chunk, and his favorite ice cream is Cookies and Cream. Joaquin is quite the comedian and spits rhymes like no other.
+    facebookURL: https://www.facebook.com/JoaquintheFailninja
+    instagramURL: https://www.instagram.com/joaquingjimenez/?hl=en
+
+  - image: images/team/dhendup.png
+    name: Dhendup "Duel" Dorjee
+    designation: Brother Unity Chair and PAAC Chair, S21
+    description: >
+      Dhendup is one of our Brother Unity Chairs and also maintains the relations with the Pan Asian American Council. He enjoys playing rugby for Northeastern currently. Dhendup is like a coin, you'll never know which side of him you'll meet.
+    facebookURL: https://www.facebook.com/dhendup.gyalpo
+    instagramURL: https://www.instagram.com/_dhendup/?hl=en
+
+  - image: images/team/sean.png
+    name: Sean "Citadel" Hong
+    designation: Investment Chair, S21
+    description: >
+      Sean enjoys playing volleyball and stock trading. He currently holds the Investment Chair position, providing finacial knowledge to our chapter. Sean is a big lad who has a lot of big moves.
+    facebookURL: https://www.facebook.com/sean.hong.1069
+    instagramURL: https://www.instagram.com/_sshong_/?hl=en
+
+  # F21
+
+  - image: images/team/justinWu.png
+    name: Justin "WRLD" Wu
+    designation: Web Developer, F21
+    description: >
+      Justin currently maintains the chapter website. He enjoys working out, singing and occasionally a good video game.
+    facebookURL: https://www.facebook.com/justin.wu.9843499
+    instagramURL: https://www.instagram.com/just.in.wu/?hl=en
+
+  - image: images/team/siraj.png
+    name: Siraj "Jägermeister" Akmal
+    designation: Rush Chair and Performance Chair, F21
+    description: >
+      Siraj is currently one of the rush and performance chairs. He 
+      also enjoys making spotify playlists and watching movies. He has a very good goofy impression.
+    facebookURL: https://www.facebook.com/siraj.akm
+    instagramURL: https://www.instagram.com/siraj.akmal/?hl=en
+
+  - image: images/team/ivan.png
+    name: Shams Ivan "Waves" Ahmed
+    designation: MGC Chair, S21
+    description: >
+      Ivan is currently one of our MGC chairs and enjoys listening to various types of music. He also likes trees.
+    facebookURL: https://www.facebook.com/Ivan.Ahmed24
+    instagramURL: https://www.instagram.com/ivan_a24/?hl=en
+
+  - image: images/team/jaycen.png
+    name: Jaycen "Zagreus" Tan
+    designation: Fraternity Artist and Public Relations Chair, F21
+    description: >
+      Jaycen is currently one of our Fraternity Artists, creating graphics, and is also in charge of 
+      our social media accounts. He enjoys driving, videography and weightlifting. He is the king of grammar.
+    facebookURL: https://www.facebook.com/realjaycen45/
+    instagramURL: https://www.instagram.com/jaycentan45/?hl=en
+
+  - image: images/team/allen.png
+    name: Allen "Dolce" Liu
+    designation: Performance Chair, F21
+    description: >
+      Allen is one of the performance chairs helping organize performance events. 
+      He caught up to One piece in month, and enjoys singing, anime and getting sturdy. He laughs at everything and his laugh is very annoying.
+    facebookURL: https://www.facebook.com/a.liu28
+    instagramURL: https://www.instagram.com/a.liu28/?hl=en
+
+  - image: images/team/sam.png
+    name: Sam "Alpenglow" Wang
+    designation: Multicultural Greek Council Chair, F21
+    description: >
+      Sam is one of our MGC chairs, helping us coordinate and connect with other multicultural organizations on campus. Sam spreads happiness for everyone.
+    facebookURL: https://www.facebook.com/profile.php?id=100013556830726
+    instragramURL: https://www.instagram.com/samxwang/?hl=en
+
+  #- image: images/team/jon.jpg
+  # name: Kevin "Wallop" Chan
+  # designation: Active, F21
+  # description: >
+  #   Kevin is our Dragon Warrior. He enjoys playing basketball and listening to Justin Bieber.
+  # facebookURL: https://www.facebook.com/profile.php?id=100001836823791
+  # instagramURL: https://www.instagram.com/chosenxchan/?hl=en
+
+  - image: images/team/christian.png
+    name: Christian "Carnation" Limb
+    designation: Active, F21
+    description: >
+      Christian is one of our neos and he enjoys playing soccer. He tends to go dark and no one knows where he goes.
+    facebookURL: https://www.facebook.com/chris.oxyclean
+    instagramURL: https://www.instagram.com/christian003100/?hl=en
+
+  - image: images/team/eugene.png
+    name: Eugene "Yugen" Ho
+    designation: Academic Chair, F21
+    description: >
+      Eugene is currently our Academic chair, helping all brothers with any school needs. He enjoys lifting, playing basketball and reading. He tends to fall victim to scams.
+    facebookURL: https://www.facebook.com/eugene.holler.7
+    instagramURL: https://www.instagram.com/eug.eneho/?hl=en
+
+  - image: images/team/kyle.png
+    name: Kyle "Sako" Hu
+    designation: Rush Chair, F21
+    description: >
+      Kyle is currently one of the three rush chairs for Spring 2022. He enjoys playing club volleyball and going to wollaston's. His eye bags could carry anything.
+    facebookURL: https://www.facebook.com/kyle.hu.37
+    instagramURL: https://www.instagram.com/kylehu0902/?hl=en
+
+  - image: images/team/christophe.png
+    name: Christophe "Demigod" Le Couedic
+    designation: Wellness Chair, F21
+    description: >
+      Christophe is one of the two wellness chairs of our chapter, making sure everyone is happy and healthy. He enjoys playing basketball and riding around on his scooter. People have mixed opinions about Christophe.
+    facebookURL: https://www.facebook.com/christophe.lecouedic.9
+    instagramURL: https://www.instagram.com/chrisstophelc/?hl=en
+
+  - image: images/team/kai.png
+    name: Kai "Talos" Zabetakis
+    designation: Active, F21
+    description: >
+      Kai is currently one of our tallest bros. He really enjoys playing TFT in his free time. He also has the biggest nose in our chapter.
+    facebookURL: https://www.facebook.com/kai.zabetakis
+    instagramURL: https://www.instagram.com/kai.zabetakis/?hl=en
+
+  #S22
+
+  - image: images/team/tai.png
+    name: Tai "G-Class" Wong
+    designation: Active, S22
+    description: >
+      Tai is a G-Class dancer who served in the Singapore Army for two years. He enjoys tatoos and spending time with his friends. Some say he likes leaves, but maybe not trees.
+    facebookURL: https://www.facebook.com/profile.php?id=100009126136568
+    instagramURL: https://www.instagram.com/thewongtimptations/?hl=en
+
+  - image: images/team/anthony.png
+    name: Anthony "Eren" Chow
+    designation: Active, S22
+    description: >
+      Anthony is a neo. He listens to a lot of music. We're talking 200k minutes on his spotify wrapped. Some of his favorite artists are Ricky Montgomery, Keshi, and Jack Harlow. They call him Eren Jägermeister.
+    facebookURL: https://www.facebook.com/anthoney582
+    instagramURL: https://www.instagram.com/canthonyyy/?hl=en
+
+  - image: images/team/aidan.png
+    name: Aidan "Doflamingo" Kaneshiro
+    designation: Active, S22
+    description: >
+      Aidan is secretly a frog. He enjoys playing sports and hanging out with friends. He is known for his crazy vertical and long arms. Interesting character to say the least.
+    facebookURL: https://www.facebook.com/profile.php?id=100007269224551
+    instagramURL: https://www.instagram.com/eric.lauu/?hl=en
+
+  - image: images/team/david.png
+    name: David "Killua Zoldyck" Ku
+    designation: Active, S22
+    description: >
+      David is a neo from South Korea. He enjoys listening to Studio Ghibli music, but hasn't watched any of their movies. He is no longer late to the party.
+    facebookURL: https://www.facebook.com/dvidku
+    instagramURL: https://www.instagram.com/dvidku/?hl=en
+
+  - image: images/team/tiph.png
+    name: Christopher "Haku" Herrick
+    designation: Active, S22
+    description: >
+      Chris goes by "tiph". He used to play lacrosse and now finds himself drinking milk to help maintain his massive stature. Catch his silent dance moves at his next show.
+    facebookURL: https://m.facebook.com/chris.herrick.526
+    instagramURL: https://www.instagram.com/tiphherrick/?hl=en
+
+  - image: images/team/theme.png
+    name: Theme "Patek" Tanpairoj
+    designation: Active, S22
+    description: >
+      Theme is from Bangkok, Thailand. He is one our of tallest bros and is full of goofiness. Always smirking. Makes you wonder what's on his mind.
+    facebookURL: https://www.facebook.com/profile.php?id=100007269224551
+    instagramURL: https://www.instagram.com/eric.lauu/?hl=en
+
+  - image: images/team/edMan.png
+    name: Edward "Toothless" Man
+    designation: Active, S22
+    description: >
+      Edward is from Toronto, Canada. He is our tallest bro standing at a whooping 9 ft tall. He is always smiling, and willing to give a helping hand. Contrary to his nickname, he actually does have teeth.
+    facebookURL: https://www.facebook.com/profile.php?id=100007269224551
+    instagramURL: https://www.instagram.com/eric.lauu/?hl=en
+
+  # S20
+  # - image: images/team/ernie.png
+  #   name: Ernie "Hiro" Hao
+  #   designation: Alumni & Web Developer, F16
+  #   description: >
+  #    Ernie is an Associate member and the main developer for this site. Ernie loves fresh coffee.
+  #  facebookURL: https://www.facebook.com/emomastersuperman
+  #  githubURL: https://github.com/ernie-h #TODO: Get this to work
